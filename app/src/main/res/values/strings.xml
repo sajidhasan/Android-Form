@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Experiment</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="button_submit">Submit</string>
+</resources>
